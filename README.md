@@ -35,6 +35,10 @@ cd Defect-Detacion
 - [ ] Web dashboard for QC operators
 - [ ] Deployment guide for factory hardware
 
+## 🔗 Connect
+
+- [LinkedIn — Devanshu Raut](https://www.linkedin.com/in/devanshu-raut-632167334/)
+
 ## 📄 License
 
 MIT © 2026 Devanshu Raut — see [LICENSE](LICENSE)
